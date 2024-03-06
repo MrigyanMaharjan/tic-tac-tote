@@ -6,7 +6,6 @@ const App = () => {
   return (
     <div className='overflow-hidden'>
       <Header/>
-      <Turn/>
       <Game/>
     </div>
   )
